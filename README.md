@@ -72,8 +72,8 @@ Seating customers at Table 1 (capacity 2)
 
 Order total: $22.5
 
-Marco Started preparing order...
-Marco Finished preparing order!
+Ahmed Started preparing order...
+Ahmed Finished preparing order!
 Ali Notified: Order READY → Serving...
 Total bill: $22.5
 
