@@ -6,7 +6,7 @@ from restaurant.dishes import Pizza, Burger, Pasta
 
 
 def main():
-    restaurant = Restaurant("ChatGPT Bistro")
+    restaurant = Restaurant("Pizza&Burger")
 
     # Add tables
     restaurant.add_table(Table(1, 2))
@@ -14,7 +14,7 @@ def main():
 
     # Add staff
     waiter = Waiter("Ali")
-    chef = Chef("Marco")
+    chef = Chef("Ahmed")
     restaurant.add_waiter(waiter)
     restaurant.add_chef(chef)
 
